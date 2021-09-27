@@ -1,0 +1,1 @@
+B(x0) AND EXISTS x2. NOT EXISTS x3. P(x0, x3) AND NOT S(x3, x1, x2)
